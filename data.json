@@ -1,0 +1,84 @@
+[
+    {
+        "empName":"Ali",
+        "empEmail":"Ali@gmail.com",
+        "empNumber":"0312465847",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    },
+
+    {
+        "empName":"fahad",
+        "empEmail":"Fahad@gmail.com",
+        "empNumber":"03124658390",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    },
+
+
+    {
+        "empName":"elisha",
+        "empEmail":"elisha@gmail.com",
+        "empNumber":"0312465277",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    },
+
+    {
+        "empName":"fuzail",
+        "empEmail":"fuzail@gmail.com",
+        "empNumber":"0312465897",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    },
+
+    {
+        "empName":"Hassan",
+        "empEmail":"Hassan@gmail.com",
+        "empNumber":"0312465887",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    },
+
+    {
+        "empName":"Anas",
+        "empEmail":"Anas@gmail.com",
+        "empNumber":"0312465877",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    },
+
+
+    {
+        "empName":"Mario",
+        "empEmail":"Mario@gmail.com",
+        "empNumber":"0312465857",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    },
+
+    {
+        "empName":"Laman",
+        "empEmail":"Laman@gmail.com",
+        "empNumber":"0312465847",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    },
+
+
+    {
+        "empName":"Moiz",
+        "empEmail":"Moiz@gmail.com",
+        "empNumber":"0312465837",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    },
+
+    {
+        "empName":"Rehman",
+        "empEmail":"Rehman@gmail.com",
+        "empNumber":"0312465867",
+        "empAddress":"karachi-pakistan",
+        "empSalary":"50000"
+    }
+]
